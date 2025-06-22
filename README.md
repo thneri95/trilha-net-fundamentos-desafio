@@ -53,4 +53,4 @@ Durante o desenvolvimento, foi possível colocar em prática:
 
 👨‍💻 Autor
 Tiago Neri
-Especialista em Finanças e Full Stack Developer
+Finance Specialist & Full Stack Developer
